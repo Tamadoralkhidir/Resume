@@ -1,28 +1,32 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, SpotFire, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Electrical Engineering and Computer Science| Khalifa University (_Janury 2020_)								       		
+- M.S., Electrical Engineering and Computer Science	| Khalifa University (_June 2015_)	 			        		
+- B.S., Electronic Engineering | Khalifa University (_June 2013_)	 			        
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Analsyst/Curriculum Specialist @ Ministry of Education (_April 2020 - Present_)**
+- Designed and implemented interactive dashboards (TIBCO Spotfire) enabling the curriculum team to identify performance trends, improving data accessibility by 25%.
+- Engineered scalable and efficient data pipelines using Apache Spark, reducing data processing time by 30% for large educational datasets.
+- Utilized Natural Language Processing (NLP) techniques to develop a content comparison tool, reducing curriculum alignment review time by 15%.
+- Create a chat bot based on LLMs to engage with the currciulum frameowrk, enabling users to retrieve relevant curriculum framework, enabling users to retrieve relevant data
+20% faster and enhancing data-driven decision-making.
+- Managed data projects, collaborating with multiple stakeholders to define requirements, deliver insights, and drive data-informed decision-making.
+- Developed and deployed machine learning models (hierarchical clustering, PCA) to predict student performance based on online behavior and exam results
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Researcher @ Khalifa University (_March 2020 - Present_)**
+- Created a computational workflow to rapidly evaluate the properties of a large number of materials using high performance computer (python and bash scripts)
+- Expertise in using machine learning to identify patterns and relationships in materials data.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
+### Analyzing Educational Data
+[Publication]([https://ieeexplore.ieee.org/abstract/document/10343036/])
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Analyzing Educational Data](/assets/img/EducationalData.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -51,5 +55,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)

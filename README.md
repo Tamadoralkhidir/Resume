@@ -12,7 +12,7 @@
 - Designed and implemented interactive dashboards (TIBCO Spotfire) enabling the curriculum team to identify performance trends, improving data accessibility by 25%.
 - Engineered scalable and efficient data pipelines using Apache Spark, reducing data processing time by 30% for large educational datasets.
 - Utilized Natural Language Processing (NLP) techniques to develop a content comparison tool, reducing curriculum alignment review time by 15%.
-- Create a chat bot based on LLMs to engage with the currciulum frameowrk, enabling users to retrieve relevant curriculum framework, enabling users to retrieve relevant data
+- Create a chatbot based on LLMs to engage with the curriciulum framework, enabling users to retrieve relevant curriculum framework, enabling users to retrieve relevant data
 20% faster and enhancing data-driven decision-making.
 - Managed data projects, collaborating with multiple stakeholders to define requirements, deliver insights, and drive data-informed decision-making.
 - Developed and deployed machine learning models (hierarchical clustering, PCA) to predict student performance based on online behavior and exam results

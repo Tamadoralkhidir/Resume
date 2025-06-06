@@ -29,11 +29,13 @@ Expertise in using machine learning to identify patterns and relationships in ma
 
 ## Projects
 ### Analyzing Educational Data
-[Publication]([https://ieeexplore.ieee.org/abstract/document/10343036/])
-This project aimed to improve student intervention strategies by identifying hidden patterns and trends within diverse student data. To achieve this, information was consolidated information from various sources, including internal SQL and NoSQL databases, as well as external APIs. By applying statistical analysis and machine learning models in Python to this comprehensive dataset—which included assessments, platform engagement, and attendance records, actionable insights was uncovered to build more effective and targeted support plans for students.
+This project aimed to improve student intervention strategies by identifying hidden patterns and trends within diverse student data, including assessments, platform engagement, and attendance records. To achieve this, information was consolidated from various sources, including internal SQL and NoSQL databases, as well as external APIs. By applying statistical analysis and machine learning models in **Python**, actionable insights were uncovered to build more effective and targeted support plans for students.
 ![Analyzing Educational Data](/assets/img/EducationalAnalysis.png)
-
-
+[Publication]([https://ieeexplore.ieee.org/abstract/document/10343036/])
+### Mapping Educational Learning Outcome
+Through the use of language model transformers such as BERT, similarity between learning outcomes across various subjects was identified, allowing the mapping of educational content easily and giving curriculum specialists the chance to address learning outcomes with similar themes in coherence and ensuring proper progression.
+![Analyzing Educational Data](/assets/img/EducationalAnalysis.png)
+[Publication]([https://ieeexplore.ieee.org/abstract/document/10343036/])
 ## Publications
 ### Journals
 1. T. Alkhidir, E. Awad & A. Alshamsi, "Understanding the Progression of Educational Topics via Semantic Matching", 2024, arXiv preprint arXiv:2403.05553‏

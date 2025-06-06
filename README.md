@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, SpotFire, MATLAB
 
 ## Education
-- Ph.D., Electrical Engineering and Computer Science| Khalifa University (_January 2020_)								       		
-- M.S., Electrical and Computer Engineering	| Khalifa University (_June 2015_)	 			        		
-- B.S., Electronic Engineering | Khalifa University (_June 2013_)	 			        
+- Ph.D., Electrical Engineering and Computer Science| Khalifa University  (_January 2020_)								       		
+- M.S., Electrical and Computer Engineering	| Khalifa University  (_June 2015_)	 			        		
+- B.S., Electronic Engineering | Khalifa University  (_June 2013_)	 			        
 
 ## Work Experience
 **Data Analsyst/Curriculum Specialist @ Ministry of Education (_April 2020 - Present_)**
@@ -21,21 +21,21 @@
 - Expertise in using density functional theory and molecular dynamics packages such as (VASP, Quantum Espresso, Orca, Gaussian)
 - Expertise in using material simulation tools such as VESTA, Biovia material studio and Crystal Explorer
 - Applied atomic and molecular simulations to interpret experimental results (energy analysis and stability, charge density, band structure, optical properties, electrical properties, mechanical properties,etc)
-- Created a computational workflow to rapidly evaluate the properties of a large number of materials using high performance computer (python and bash scripts)
+- Created a computational workflow to rapidly evaluate the properties of a large number of materials using high performance computing (python and bash scripts)
 - Modeled the mechanical and electrical properties of materials for a variety of applications, such as coccystals, van der Waals heterostructures (e.g., MXenes and graphene), thermochromism, energy storage applications (e.g., water splitting) and nanomaterials
 Expertise in using machine learning to identify patterns and relationships in materials data.
-- Created a computational workflow to rapidly evaluate the properties of a large number of materials using high performance computer (python and bash scripts)
+- Created a computational workflow to rapidly evaluate the properties of a large number of materials using high performance computing (python and bash scripts)
 - Expertise in using machine learning to identify patterns and relationships in materials data.
 
 ## Projects
 ### Analyzing Educational Data
+[Publication]([https://ieeexplore.ieee.org/abstract/document/10343036/])
 This project aimed to improve student intervention strategies by identifying hidden patterns and trends within diverse student data, including assessments, platform engagement, and attendance records. To achieve this, information was consolidated from various sources, including internal SQL and NoSQL databases, as well as external APIs. By applying statistical analysis and machine learning models in **Python**, actionable insights were uncovered to build more effective and targeted support plans for students.
 ![Analyzing Educational Data](/assets/img/EducationalAnalysis.png)
-[Publication]([https://ieeexplore.ieee.org/abstract/document/10343036/])
 ### Mapping Educational Learning Outcome
+[Publication](https://arxiv.org/html/2403.05553v1)
 Through the use of language model transformers such as BERT, similarity between learning outcomes across various subjects was identified, allowing the mapping of educational content easily and giving curriculum specialists the chance to address learning outcomes with similar themes in coherence and ensuring proper progression.
 ![Mapping Educational Learning Outcome](/assets/img/ContentMapping.png)
-[Publication](https://arxiv.org/html/2403.05553v1)
 ## Publications
 ### Journals
 1. T. Alkhidir, E. Awad & A. Alshamsi, "Understanding the Progression of Educational Topics via Semantic Matching", 2024, arXiv preprint arXiv:2403.05553‏

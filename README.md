@@ -4,8 +4,8 @@
 
 ## Education
 - Ph.D., Electrical Engineering and Computer Science| Khalifa University  (_January 2020_)								       		
-- M.S., Electrical and Computer Engineering	| Khalifa University  (_June 2015_)	 			        		
-- B.S., Electronic Engineering | Khalifa University  (_June 2013_)	 			        
+- M.S., Electrical and Computer Engineering| Khalifa University  (_June 2015_)	 			        		
+- B.S., Electronic Engineering| Khalifa University  (_June 2013_)	 			        
 
 ## Work Experience
 **Data Analsyst/Curriculum Specialist @ Ministry of Education (_April 2020 - Present_)**
@@ -34,7 +34,8 @@ This project aimed to improve student intervention strategies by identifying hid
 Through the use of language model transformers such as BERT, similarity between learning outcomes across various subjects was identified, allowing the mapping of educational content easily and giving curriculum specialists the chance to address learning outcomes with similar themes in coherence and ensuring proper progression.
 ![Mapping Educational Learning Outcome](/assets/img/ContentMapping.png)
 ![Mapping Educational Learning Outcome](/assets/img/Platform.png)
-## Publications
+
+# Publications
 ### Journals
 1. T. Alkhidir, E. Awad & A. Alshamsi, "Understanding the Progression of Educational Topics via Semantic Matching", 2024, arXiv preprint arXiv:2403.05553‏
 M. Almehairbi, V. Joshi, V. Irfan, Z. Saeed, T.Alkhidir, S. Mohamed, et al. "Surface Engineering of the Mechanical Properties of Molecular Crystals via an Atomistic Model for Computing the Facet Stress Response of Solids", 2024,Chemistry–A European Journal
@@ -51,11 +52,13 @@ R. Samanta, T.Alkhidir, S. Mohamed,et al. "Elastic organic semiconducting single
 11. T. Alkhidir, M. K. Yapici: “Intelligent Medical Garments with Graphene-Functionalized Smart-Cloth ECG Sensors”, Sensors, 2017
 12. T. Alkhidir,M. K. Yapici, Y. A. Samad , Kin Liao: “Graphene-Clad Textile Electrodes for Electrocardiogram Monitoring”, Sensor and Actuator B: chemical, 2015
 13. S. Singh, N. El Sayed, T. Alkhidir, M. Wahbah, and M. Al Zaabi: “Modeling of High Performance 4H-SiC Emitter Coupled Logic Circuits” Materials Science Forum, 2014
+    
 ### Conferences
 1. T. Alkhidir, M. Abi-Jaoude, D. L. Gater, C. Alpha, A. F. Isakovic, “Amino Acids Detection with Modulation Doped and Surface Nanoengineered GaAs Schottky Diodes”, accepted at 2020 Physics and Chemistry of Surfaces and Interfaces, PCSI, Boulder, CO, USA, January 2020.
 2. Francesca Stradolini, T. Alkhidir, Giovanni De Micheli, Sandro Carrara:“ Simultaneous Monitoring of Anesthetics and Therapeutic Compounds with a Portable Multichannel Potentiostat”, ISCAC 2016
 3. T. Alkhidir, A. Sluzek, M. K. Yapici: “Simple Method for Adaptive Filtering of Motion Artifacts in E-textile wearable sensors”, EMBC 2015: 3807-3810
 4. T. Alkhidir, Y. A. Samad, Y. Li, Kin Lieo, M. K. Yapici :“Graphene Coated Textile Sensors for Intelligent Medical Garments”, Proc. of the 2nd IEEE EMBS Micro and Nanotechnology in Medicine Conference (IEEE MNMC), Oahu, Hawaii, USA, Dec. 8-12, 2014
+   
 ### Seminars and Workshops
 1. T. Alkhidir, A. Abdurahman, I.A.H Farhat, and A. F. Isakovic, "Design Challenges for the Detection of Dynamic Nuclear Polarization with Semiconductor Spin Diode Arrays", Annual Meeting of American Physical Society, New Orleans, LA, USA, March 2017, Bulletin of the American Physical Society, X42.0004, (2017)
 2. T. Alkhidir, A. R. Devarajan, C. Alpha, I. A. H. Farhat, D. L. Gater, and A. F. Isakovic, "Electronically and Spectroscopically Probed Adsorption of Molecular Species at the Interface Between Biochemically Relevant Solutions and GaAs Diodes", 2017 Fall Meeting of MRS Meeting, November 2017, Boston, MA, USA

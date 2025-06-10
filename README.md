@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, SpotFire, MATLAB
 
 ## Education
-- Ph.D., Electrical Engineering and Computer Science| Khalifa University  (_January 2020_)								       		
-- M.S., Electrical and Computer Engineering| Khalifa University  (_June 2015_)	 			        		
-- B.S., Electronic Engineering| Khalifa University  (_June 2013_)	 			        
+- Ph.D., Electrical Engineering and Computer Science|Khalifa University  (_January 2020_)								       		
+- M.S., Electrical and Computer Engineering|Khalifa University  (_June 2015_)	 			        		
+- B.S., Electronic Engineering|Khalifa University  (_June 2013_)	 			        
 
 ## Work Experience
 **Data Analsyst/Curriculum Specialist @ Ministry of Education (_April 2020 - Present_)**
@@ -26,7 +26,7 @@
 - Expertise in using machine learning to identify patterns and relationships in materials data.
 ## Projects
 ### Analyzing Educational Data
-[Publication]([https://ieeexplore.ieee.org/abstract/document/10343036/])
+[Publication](https://ieeexplore.ieee.org/abstract/document/10343036)
 This project aimed to improve student intervention strategies by identifying hidden patterns and trends within diverse student data, including assessments, platform engagement, and attendance records. To achieve this, information was consolidated from various sources, including internal SQL and NoSQL databases, as well as external APIs. By applying statistical analysis and machine learning models in **Python**, actionable insights were uncovered to build more effective and targeted support plans for students.
 ![Analyzing Educational Data](/assets/img/EducationalAnalysis.png)
 ### Mapping Educational Learning Outcome
